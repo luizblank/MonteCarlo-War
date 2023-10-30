@@ -1,0 +1,15 @@
+C:\Users\disrct\Desktop\Aulas-CSharp\war simulator\bin\Debug\net7.0\war simulator.exe
+C:\Users\disrct\Desktop\Aulas-CSharp\war simulator\bin\Debug\net7.0\war simulator.deps.json
+C:\Users\disrct\Desktop\Aulas-CSharp\war simulator\bin\Debug\net7.0\war simulator.runtimeconfig.json
+C:\Users\disrct\Desktop\Aulas-CSharp\war simulator\bin\Debug\net7.0\war simulator.dll
+C:\Users\disrct\Desktop\Aulas-CSharp\war simulator\bin\Debug\net7.0\war simulator.pdb
+C:\Users\disrct\Desktop\Aulas-CSharp\war simulator\obj\Debug\net7.0\war simulator.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\Aulas-CSharp\war simulator\obj\Debug\net7.0\war simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\Aulas-CSharp\war simulator\obj\Debug\net7.0\war simulator.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\Aulas-CSharp\war simulator\obj\Debug\net7.0\war simulator.AssemblyInfo.cs
+C:\Users\disrct\Desktop\Aulas-CSharp\war simulator\obj\Debug\net7.0\war simulator.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\Aulas-CSharp\war simulator\obj\Debug\net7.0\war simulator.dll
+C:\Users\disrct\Desktop\Aulas-CSharp\war simulator\obj\Debug\net7.0\refint\war simulator.dll
+C:\Users\disrct\Desktop\Aulas-CSharp\war simulator\obj\Debug\net7.0\war simulator.pdb
+C:\Users\disrct\Desktop\Aulas-CSharp\war simulator\obj\Debug\net7.0\war simulator.genruntimeconfig.cache
+C:\Users\disrct\Desktop\Aulas-CSharp\war simulator\obj\Debug\net7.0\ref\war simulator.dll
